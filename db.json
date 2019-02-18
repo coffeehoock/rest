@@ -1,18 +1,20 @@
 
 {
-    {
-      "id": 1,
-      "title": "создать заметки",
-      "completed": true
-    },
-    {
-      "id": 2,
-      "title": "помыть полы",
-      "completed": false
-    },
-    {
-      "id": 3,
-      "title": "купить квартиру",
-      "completed": false
-    }
-  }
+    "posts": [
+                {
+                  "id": 1,
+                  "title": "создать заметки",
+                  "completed": true
+                },
+                {
+                  "id": 2,
+                  "title": "помыть полы",
+                  "completed": false
+                },
+                {
+                  "id": 3,
+                  "title": "купить квартиру",
+                  "completed": false
+                }
+    ]
+}
