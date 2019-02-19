@@ -1,6 +1,11 @@
 
 {
     "posts": [
+               {
+                  "id": 0,
+                  "title": "facyo",
+                  "completed": true
+                },
                 {
                   "id": 1,
                   "title": "создать заметки",
