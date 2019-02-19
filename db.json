@@ -4,7 +4,7 @@
                {
                   "id": 0,
                   "title": "заехать в бар",
-                  "completed": "false"
+                  "completed": false
                 },
                 {
                   "id": 1,
